@@ -24,7 +24,7 @@ Start with:
 
 ## Paid Convenience Bundle
 
-The paid version can include:
+The paid version includes:
 
 - PDF-ready questionnaire
 - scope-risk scoring CSV
@@ -33,6 +33,11 @@ The paid version can include:
 - example completed intake
 
 Suggested launch price: EUR 7.
+
+Checkout link: coming soon.
+
+If you want the bundle before the checkout page is live, open an issue in this
+repository with the title `bundle request`.
 
 ## Honest Note
 
