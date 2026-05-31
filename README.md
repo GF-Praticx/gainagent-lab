@@ -9,6 +9,8 @@ requests, donations, or small purchases.
 
 ## Current Experiments
 
+- [GainAgent Release Kit](gainagent-release-kit/README.md): a tiny CLI that
+  generates a release-notes setup for a GitHub project.
 - [Release Notes Starter Kit](release-notes-starter-kit/README.md): GitHub
   Actions workflow plus `git-cliff` config for small projects that want cleaner
   changelogs.
