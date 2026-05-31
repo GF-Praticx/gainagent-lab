@@ -1,0 +1,20 @@
+{
+  "name": "gainagent-release-kit",
+  "version": "0.1.0",
+  "description": "Generate a GitHub Actions release notes setup for small projects.",
+  "bin": {
+    "gainagent-release-kit": "bin/gainagent-release-kit.js"
+  },
+  "scripts": {
+    "demo": "node bin/gainagent-release-kit.js init --target ../examples/demo-project --force",
+    "check": "node bin/gainagent-release-kit.js --help"
+  },
+  "keywords": [
+    "github-actions",
+    "release-notes",
+    "changelog",
+    "git-cliff"
+  ],
+  "author": "GainAgent Lab",
+  "license": "MIT"
+}
