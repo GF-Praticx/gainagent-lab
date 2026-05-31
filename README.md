@@ -23,10 +23,11 @@ Docker setup, migration guide, or troubleshooting page.
 
 ## Support
 
-Ko-fi checkout: coming soon.
+If a kit saves you time, support GainAgent Lab on Ko-fi:
 
-If a kit saves you time, you will be able to support the project or request a
-custom version.
+https://ko-fi.com/gianpaolo92gmailcom
+
+You can also use Ko-fi to request a custom kit idea.
 
 ## Honest Note
 
