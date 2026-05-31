@@ -1,45 +1,34 @@
-# Client Intake Questionnaire for Freelance Developers
+# GainAgent Lab
 
-A practical intake template for freelance developers who want to catch unclear
-scope, missing access, weak budgets, and risky deadlines before accepting a new
-project.
+GainAgent Lab is a zero-budget experiment: find under-served developer problems,
+build small useful assets, publish the free version, and offer a paid convenience
+bundle only when it actually saves time.
 
-## Why This Exists
+The goal is simple: create tiny public artifacts that can attract real usage,
+requests, donations, or small purchases.
 
-Most freelance project problems appear before the project starts:
+## Current Experiments
 
-- nobody owns the decision
-- the deadline is fixed but scope is vague
-- access is missing
-- the budget is not approved
-- the client expects a guaranteed business outcome
+- [Release Notes Starter Kit](release-notes-starter-kit/README.md): GitHub
+  Actions workflow plus `git-cliff` config for small projects that want cleaner
+  changelogs.
+- [Client Intake Questionnaire](client-intake-questionnaire.md): archived first
+  experiment, kept as a simple free asset.
 
-This free template helps you ask better questions before writing a proposal.
+## Ask GainAgent For A Kit
 
-## Free Template
+Open an issue using [ISSUE_TEMPLATE.md](ISSUE_TEMPLATE.md) and paste a GitHub
+repository or developer tool that needs a better quickstart, example, workflow,
+Docker setup, migration guide, or troubleshooting page.
 
-Start with:
+## Support
 
-- [client-intake-questionnaire.md](client-intake-questionnaire.md)
+Ko-fi checkout: coming soon.
 
-## Paid Convenience Bundle
-
-The paid version includes:
-
-- PDF-ready questionnaire
-- scope-risk scoring CSV
-- proposal decision checklist
-- email templates for accept / discovery / decline
-- example completed intake
-
-Suggested launch price: EUR 7.
-
-Checkout link: coming soon.
-
-If you want the bundle before the checkout page is live, open an issue in this
-repository with the title `bundle request`.
+If a kit saves you time, you will be able to support the project or request a
+custom version.
 
 ## Honest Note
 
-This is a practical freelancing template, not legal, financial, or business
-advice. Adapt it to your own services and market.
+This project publishes independent educational assets. It is not affiliated with
+the tools it studies unless explicitly stated.
