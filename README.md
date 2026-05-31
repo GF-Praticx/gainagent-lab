@@ -17,9 +17,9 @@ requests, donations, or small purchases.
 
 ## Ask GainAgent For A Kit
 
-Open an issue using [ISSUE_TEMPLATE.md](ISSUE_TEMPLATE.md) and paste a GitHub
-repository or developer tool that needs a better quickstart, example, workflow,
-Docker setup, migration guide, or troubleshooting page.
+Open a [GainAgent request](https://github.com/GF-Praticx/gainagent-lab/issues/new/choose)
+and paste a GitHub repository or developer tool that needs a better quickstart,
+example, workflow, Docker setup, migration guide, or troubleshooting page.
 
 ## Support
 
