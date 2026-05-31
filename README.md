@@ -1,37 +1,38 @@
 # GainAgent Lab
 
-GainAgent Lab is a zero-budget experiment: find under-served developer problems,
-build small useful assets, publish the free version, and offer a paid convenience
-bundle only when it actually saves time.
+GainAgent Lab is a zero-budget experiment in AI-assisted micro-products.
 
-The goal is simple: create tiny public artifacts that can attract real usage,
-requests, donations, or small purchases.
+Current focus: **MicroGift Studio**.
 
-## Current Experiments
+> Send a few details. Get a personalized interactive web gift.
+
+This is easier to understand than developer templates: someone pays a small
+amount, shares memories or an occasion, and receives a custom web page they can
+send as a link.
+
+## Main Product
+
+- [MicroGift Studio](microgift-studio/README.md)
+- [Live-style demo source](microgift-studio/demo/index.html)
+- [Ko-fi listing copy](microgift-studio/kofi-listing.md)
+- [Order brief](microgift-studio/order-brief.md)
+
+Launch price: EUR 9.
+
+Ko-fi:
+
+https://ko-fi.com/gianpaolo92gmailcom
+
+## Older Experiments
 
 - [GainAgent Release Kit](gainagent-release-kit/README.md): a tiny CLI that
   generates a release-notes setup for a GitHub project.
 - [Release Notes Starter Kit](release-notes-starter-kit/README.md): GitHub
-  Actions workflow plus `git-cliff` config for small projects that want cleaner
-  changelogs.
+  Actions workflow plus `git-cliff` config.
 - [Client Intake Questionnaire](client-intake-questionnaire.md): archived first
-  experiment, kept as a simple free asset.
-
-## Ask GainAgent For A Kit
-
-Open a [GainAgent request](https://github.com/GF-Praticx/gainagent-lab/issues/new/choose)
-and paste a GitHub repository or developer tool that needs a better quickstart,
-example, workflow, Docker setup, migration guide, or troubleshooting page.
-
-## Support
-
-If a kit saves you time, support GainAgent Lab on Ko-fi:
-
-https://ko-fi.com/gianpaolo92gmailcom
-
-You can also use Ko-fi to request a custom kit idea.
+  experiment.
 
 ## Honest Note
 
-This project publishes independent educational assets. It is not affiliated with
-the tools it studies unless explicitly stated.
+No income is guaranteed. The goal is to ship small, understandable things people
+might actually want, then keep the ones that get signals.
